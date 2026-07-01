@@ -9,7 +9,7 @@ This profile highlights my public projects and organizes preserved legacy work.
 
 | Project | Type | Description |
 |---|---|---|
-| [daily-fun-page](https://github.com/yanshihao/daily-fun-page) | Public | 面向中文用户的每日趣味静态网页，使用 GitHub Actions 自动更新。 |
+| [daily-fun-page](https://github.com/yanshihao/daily-fun-page) / [Live Site](https://yanshihao.github.io/daily-fun-page/) | Public | 面向中文用户的每日趣味静态网页，使用 GitHub Actions 自动更新。 |
 | [BuddyLog](https://github.com/CEILWONG/BuddyLog) | Collaboration | 像老友一样聊天，像岁月一样记录的 AI 聊天日记 Agent 应用。 |
 
 ---
